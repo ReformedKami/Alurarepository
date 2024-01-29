@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+let listaDeNumerosSorteados = [];
+let numeroLimite = 60;
+let numeroSecreto = gerarNumeroAleatorio();
+let tentativas = 1;
+>>>>>>> 4e57dec2218e106d510d24e689e77ea2ca498b14
 
 alert("Boas vindas ao jogo de numero secreto");
 
